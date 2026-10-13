@@ -17,5 +17,7 @@ To save time, set Animation Speed to Fast.
 ## Task 3
 Since Stateflow charts are blocks in a Simulink model, the chart receives and sends data using ports, like other Simulink blocks. For example, you can connect the output of a Stateflow chart to a Scope block to visualize the output signals.
 Branch the red signal to the Assessment Block, and then click run to assess that signal.
+<img width="919" height="568" alt="Traffic_light - Stateflow" src="https://github.com/user-attachments/assets/de3d1f3f-9ca3-46cd-9512-0d741df846c1" />
+
 
 
