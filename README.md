@@ -36,7 +36,7 @@ PrepareToStop → Stop: 3 seconds
 
 # Fault Response in the Model
 
-I am also consider a more practical traffic light which involves fault detaction. 
+I am also considering a more practical traffic light which involves fault detaction. 
 Note that you can navigate to the Simulink model to see how the traffic light behaves in response to faults at various times. The Scope block shows you the fault signal. To choose a different test case, double-click the Signal Editor block. 
 
 NB: The file is found in the link below:
