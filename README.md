@@ -33,3 +33,9 @@ PrepareToStop → Stop: 3 seconds
 <img width="439" height="639" alt="Stateflow Chart _ Traffic Light" src="https://github.com/user-attachments/assets/9c7cee24-011d-47c6-8302-2b708bd12c40" />
 
 <img width="1102" height="848" alt="Graphical representation" src="https://github.com/user-attachments/assets/3b5b963c-7444-451f-a608-779940087c86" />
+
+# Fault Response in the Model
+
+I am also consider a more practical traffic light which involves fault detaction. 
+Note that you can navigate to the Simulink model to see how the traffic light behaves in response to faults at various times. The Scope block shows you the fault signal. To choose a different test case, double-click the Signal Editor block. 
+NB: The file is found the project folder 
