@@ -42,3 +42,5 @@ Note that you can navigate to the Simulink model to see how the traffic light be
 NB: The file is found in the link below:
 
 https://github.com/Ebenzbelo/StateFlow-Chart-_-Traffic-Light----Simulink/blob/main/Project/Fault%20Response%20Project%20-%20Traffic%20Light.slx
+
+<a href="https://github.com/Ebenzbelo/Indicating-Business-Intelligence-/tree/main">Business Performance Report</a>
