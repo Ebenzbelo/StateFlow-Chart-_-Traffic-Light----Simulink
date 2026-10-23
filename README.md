@@ -41,4 +41,4 @@ Note that you can navigate to the Simulink model to see how the traffic light be
 
 NB: The file is found in the link below:
 
-<a href="https://github.com/Ebenzbelo/StateFlow-Chart-_-Traffic-Light----Simulink/tree/main/Project">Fault Response Model</a>
+<a href="https://github.com/Ebenzbelo/StateFlow-Chart-_-Traffic-Light----Simulink/tree/main/Project">Model</a>
