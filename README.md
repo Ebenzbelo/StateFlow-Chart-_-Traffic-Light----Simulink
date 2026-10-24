@@ -42,3 +42,7 @@ Note that you can navigate to the Simulink model to see how the traffic light be
 NB: The file is found in the link below:
 
 <a href="https://github.com/Ebenzbelo/StateFlow-Chart-_-Traffic-Light----Simulink/tree/main/Project">Model</a>
+
+### Reference 
+<a href="https://matlabacademy.mathworks.com/?page=1&sort=featured">Project reference</a>
+
